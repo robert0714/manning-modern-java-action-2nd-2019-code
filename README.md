@@ -1,0 +1,2 @@
+# resources
+This repository contains the code listings, examples and other resources for the book ["Modern Java in Action"](https://www.manning.com/books/modern-java-in-action), published by Manning Publications.
